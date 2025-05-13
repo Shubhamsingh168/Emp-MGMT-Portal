@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://your-username.github.io/emp-mgmt-portal", 
+  "homepage": "https://shubhamsingh168.github.io/emp-mgmt-portal", 
   "scripts": {
     "dev": "vite",
     "build": "vite build",
